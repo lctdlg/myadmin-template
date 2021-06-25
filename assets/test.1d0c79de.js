@@ -1,0 +1,1 @@
+import{o as e,e as n,F as s,f as l,g as o}from"./vendor.f7dd4e9f.js";const t={name:"TestPermission",setup(){console.log("test")}},r=l("div",null,"当前页面只有拥有【"+o(null)+"】角色可以查看",-1),u=l("p",null,"TODO",-1);t.render=function(l,o,t,a,d,f){return e(),n(s,null,[r,u],64)};export default t;

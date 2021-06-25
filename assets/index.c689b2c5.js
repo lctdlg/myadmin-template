@@ -1,0 +1,1 @@
+import{k as e,o as t,e as n,f as r}from"./vendor.f7dd4e9f.js";const a={},o={style:{padding:"30px"}};a.render=function(a,s){const d=e("el-alert");return t(),n("div",o,[r(d,{closable:!1,title:"menu 1-2-1",type:"warning"})])};export default a;

@@ -1,0 +1,1 @@
+import{o as e,e as s,f as n,g as o}from"./vendor.f7dd4e9f.js";const l={name:"PagePermission",setup(){console.log("page")}},r=n("div",null,"权限相关页面",-1);l.render=function(l,t,a,u,d,i){return e(),s("div",null,[r,n("div",null,[n("p",null,"当前权限用户拥有权限:"+o(l.$store.state.user.roles),1)])])};export default l;
